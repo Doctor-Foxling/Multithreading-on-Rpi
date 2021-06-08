@@ -15,7 +15,7 @@ A detailed explaination is provided <a href="#0">Here</a>.
   <li>Learned to write multi-threaded code</li>
   <li>Learned to work with multiple child processes spawned from a parent process</li>
   <li>Improved shell scripting skills</li>
-  <li>Learned to write code Perl</li>
+  <li>Learned to write code in Perl</li>
   <li>Gained a deeper understanding of the lower level workings of an OS</li>
 </ul>
 
