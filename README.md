@@ -10,6 +10,15 @@ is used to analyse the working of OS as the Kernel-Level threads are created.
 A detailed explaination is provided <a href="#0">Here</a>.
 </p>
 
+## What I learned
+
+<ul>
+  <li>Learned to write multi-threaded code</li>
+  <li>Learned to work with multiple child processes spawned from a parent process</li>
+  <li>Improved shell scripting skills</li>
+  <li>Learned to write code Perl</li>
+  <li>Gained a deeper understanding of the lower level workings of an OS</li>
+</ul>
 
 ## Screenshots
 
