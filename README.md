@@ -5,7 +5,6 @@ The project explores the advantages of writing multi-threaded code over traditio
 use of the multiple cores of a Raspberry-pi and runs simultaneously. Two shell scripts are forked as child processes, that grabs the background system data, at the time when 
 the multi-threaded code is running and this data is then piped into two respective text files. A Perl script is used to break the stored data to extract useful information that
 is used to analyse the working of OS as the Kernel-Level threads are created.
-
 <br><br>
 A detailed explaination is provided <a href="#0">Here</a>.
 </p>
@@ -22,9 +21,9 @@ A detailed explaination is provided <a href="#0">Here</a>.
 
 ## Screenshots
 
-<img src="https://github.com/Doctor-Foxling/Multithreading-on-Rpi/blob/master/Readme/Final_Output.png">
-
 <img src="https://github.com/Doctor-Foxling/Multithreading-on-Rpi/blob/master/Readme/top%20multi_core.png">
+
+<img src="https://github.com/Doctor-Foxling/Multithreading-on-Rpi/blob/master/Readme/Final_Output.png">
 
 <img src="https://github.com/Doctor-Foxling/Multithreading-on-Rpi/blob/master/Readme/Perl%20script%201.png">
 
