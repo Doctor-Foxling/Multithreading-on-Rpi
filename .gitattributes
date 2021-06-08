@@ -1,1 +1,5 @@
 *.C linguist-detectable=true
+*.txt linguist-detectable=false
+*.pl linguist-detectable=true
+*.sh linguist-detectable=false
+ 
